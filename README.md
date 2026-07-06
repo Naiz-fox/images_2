@@ -32,11 +32,17 @@
 ===
 
 포트폴리오 링크: https://github.com/Naiz-fox/images_2
+
 ===
 
 그 외에도 기타 등등 아이템 에셋이나 ui, 배경 등등은 문의 해주세요
 
 스타일은 기본적으로는 아래 이미지가 주특기이며, 그 외에도 스타일을 설명하거나 보여주시면 가능합니다. 팔레트 분위기는 분위기 말씀해주시면 제가 알아서 뽑아 쓰거나 팔레트 색상 뽑아서 주시면 그걸 쓰겠습니다.
+
+![대표 씬](https://github.com/Naiz-fox/images_2/blob/main/portfolio.png)
+![스프라이트 시트 샘플1](https://github.com/Naiz-fox/images_2/blob/main/player.png)
+![스프라이트 시트 샘플2](https://github.com/Naiz-fox/images_2/blob/main/slime.png)
+![타일셋 샘플](https://github.com/Naiz-fox/images_2/blob/main/tileset.png)
 
 환불X, 수정은 최대 5회 가능
 
