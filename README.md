@@ -31,7 +31,7 @@
 
 ===
 
-포트폴리오 링크: https://github.com/Naiz-fox/-/blob/main/player.png
+포트폴리오 링크: [https://github.com/Naiz-fox/-/blob/main/player.png]
 디스코드: inari_naiz
 
 ===
