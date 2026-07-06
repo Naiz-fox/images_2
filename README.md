@@ -31,8 +31,7 @@
 
 ===
 
-포트폴리오 링크: [[https://github.com/Naiz-fox/-]
-
+포트폴리오 링크: https://github.com/Naiz-fox/images_2
 ===
 
 그 외에도 기타 등등 아이템 에셋이나 ui, 배경 등등은 문의 해주세요
