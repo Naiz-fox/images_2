@@ -1,6 +1,7 @@
 # 커미션
 기본적으로 스프라이트 시트와 타일셋, 혹은 컨셉아트가 가능함
 # ![샘플](https://github.com/Naiz-fox/images_2/blob/main/portfolio.png)
+# ![샘플2](https://github.com/Naiz-fox/images_2/blob/main/g-17.png)
 ---
 스프라이트 시트:
 - 캐릭터 혹은 스프라이트 단독 사이즈: 16x16~32x32
